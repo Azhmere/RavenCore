@@ -1,0 +1,16 @@
+
+{
+  "name": "RavenCore",
+  "short_name": "RavenCore",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "Loop online. RavenCore awakening...",
+  "icons": [
+    {
+      "src": "AppIcon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
